@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "986912808960",
+    "firebase_url": "https://flash-chat-8c91f.firebaseio.com",
+    "project_id": "flash-chat-8c91f",
+    "storage_bucket": "flash-chat-8c91f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986912808960:android:7ba08bd969a4172c9f78e5",
+        "android_client_info": {
+          "package_name": "co.Rishika.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986912808960-tkim3idg26jgdjsrtnm81mm7otnlc4aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlPUPSxwGLiqwSYHlgRUrwazEb5iIYqzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986912808960-tkim3idg26jgdjsrtnm81mm7otnlc4aq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
